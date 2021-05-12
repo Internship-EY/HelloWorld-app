@@ -1,2 +1,2 @@
 # HelloWorld-app
-HelloWorld Java app
+The one and only HelloJava HelloWorld app. Providing best functionality for our clients!
